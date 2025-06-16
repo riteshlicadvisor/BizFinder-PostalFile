@@ -9451,7 +9451,8 @@
     "officeName": "Lakkasagaram B.O",
     "pinCode": "518225",
     "officeType": "BO",
-    "district": "KURNOOL",
+    "district": "K
+URNOOL",
     "latitude": "NA",
     "longitude": "NA"
   },
@@ -18782,7 +18783,8 @@
   {
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
-    "regionName": "Visakhapatnam Region",
+   
+ "regionName": "Visakhapatnam Region",
     "divisionName": "Rajahmundry Division",
     "officeName": "V.Ramannapalem B.O",
     "pinCode": "533288",
@@ -28026,7 +28028,8 @@
     "divisionName": "Hindupur Division",
     "officeName": "Sangala B.O",
     "pinCode": "515672",
-    "officeType": "BO",
+    "officeType": "B
+O",
     "district": "Sri Sathya Sai",
     "latitude": "NA",
     "longitude": "NA"
@@ -37517,7 +37520,8 @@
     "regionName": "Vijayawada Region",
     "divisionName": "Prakasam Division",
     "officeName": "Vankayalapadu B.O",
-    "pinCode": "523190",
+   
+ "pinCode": "523190",
     "officeType": "BO",
     "district": "Bapatla",
     "latitude": "15.911727",
@@ -46677,7 +46681,8 @@
     "officeType": "PO",
     "district": "CHITTOOR",
     "latitude": "13.8709",
-    "longitude": "78.06"
+    "lon
+gitude": "78.06"
   },
   {
     "stateName": "ANDHRA PRADESH",
@@ -56092,7 +56097,8 @@
     "circleName": "Andhra Pradesh Circle",
     "regionName": "Vijayawada Region",
     "divisionName": "Markapur  Division",
-    "officeName": "Gurrapusala B.O",
+    "officeName": 
+"Gurrapusala B.O",
     "pinCode": "523330",
     "officeType": "BO",
     "district": "PRAKASAM",
@@ -65433,7 +65439,8 @@
     "officeType": "BO",
     "district": "Konaseema",
     "latitude": "16.7369",
-    "longitude": "82.0305"
+    "longitude": "82.0
+305"
   },
   {
     "stateName": "ANDHRA PRADESH",
@@ -74642,7 +74649,8 @@
   {
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
-    "regionName": "Vijayawada Region",
+    "re
+gionName": "Vijayawada Region",
     "divisionName": "Narasaraopet Division",
     "officeName": "Phirangipuram S.O",
     "pinCode": "522529",
@@ -84110,7 +84118,8 @@
   {
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
-    "regionName": "Vijayawada Region",
+    "regionNa
+me": "Vijayawada Region",
     "divisionName": "Bhimavaram Division",
     "officeName": "Juttiga B.O",
     "pinCode": "534124",
@@ -93386,7 +93395,8 @@
   {
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
-    "regionName": "Vijayawada Region",
+    "regionName": "Vijayawada Region
+",
     "divisionName": "Tenali Division",
     "officeName": "Tumuluru B.O",
     "pinCode": "522304",
@@ -102592,7 +102602,8 @@
     "circleName": "Andhra Pradesh Circle",
     "regionName": "Kurnool Region",
     "divisionName": "Chittoor Division",
-    "officeName": "Mallakunta B.O",
+    "officeName": "Malla
+kunta B.O",
     "pinCode": "517129",
     "officeType": "BO",
     "district": "CHITTOOR",
@@ -112143,7 +112154,8 @@
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
     "regionName": "Vijayawada Region",
-    "divisionName": "Gudur Division",
+    
+"divisionName": "Gudur Division",
     "officeName": "Manulalpeta B.O",
     "pinCode": "524132",
     "officeType": "BO",
@@ -121335,7 +121347,8 @@
     "stateName": "ANDHRA PRADESH",
     "circleName": "Andhra Pradesh Circle",
     "regionName": "Vijayawada Region",
-    "divisionName": "Vijayawada Division",
+  
+  "divisionName": "Vijayawada Division",
     "officeName": "Popuru B.O",
     "pinCode": "521182",
     "officeType": "BO",
@@ -128242,5 +128255,185 @@
     "district": "VISAKHAPATANAM",
     "latitude": "17.70402479",
     "longitude": "83.29639357"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Bhimavaram Division",
+    "officeName": "Seshammacheruvu B.O",
+    "pinCode": "534320",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "16.6242",
+    "longitude": "81.7726"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Vijayawada Division",
+    "officeName": "ALINAKHIPALEM",
+    "pinCode": "521250",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "NA",
+    "longitude": "NA"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Kurnool Region",
+    "divisionName": "Anantapur Division",
+    "officeName": "Anumpalli",
+    "pinCode": "515767",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "14.331522",
+    "longitude": "76.953422"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Gudivada Division",
+    "officeName": "Chatakai",
+    "pinCode": "521340",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "NA",
+    "longitude": "NA"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Nellore Division",
+    "officeName": "B.C. Colony BO",
+    "pinCode": "524228",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "NA",
+    "longitude": "NA"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Visakhapatnam Region",
+    "divisionName": "Vizianagaram Division",
+    "officeName": "BHUPALAPURAM",
+    "pinCode": "535280",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "18.248273",
+    "longitude": "83.40866"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Vijayawada Division",
+    "officeName": "Vadlamanu BO",
+    "pinCode": "521211",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "16.6988",
+    "longitude": "80.7"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Kurnool Region",
+    "divisionName": "Tirupati Division",
+    "officeName": "Nodal Delivery Center Tirupati",
+    "pinCode": "517510",
+    "officeType": "PO",
+    "district": "NA",
+    "latitude": "13.3757",
+    "longitude": "79.25213"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Kurnool Region",
+    "divisionName": "Tirupati Division",
+    "officeName": "Vedanthapuram Agraharam BO",
+    "pinCode": "517508",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "13.3554",
+    "longitude": "79.24586"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Kurnool Region",
+    "divisionName": "Tirupati Division",
+    "officeName": "Oteru B.O",
+    "pinCode": "517508",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "NA",
+    "longitude": "NA"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Bhimavaram Division",
+    "officeName": "Yerramsettivaripalem B.O",
+    "pinCode": "534275",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "16.43",
+    "longitude": "81.69"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Visakhapatnam Region",
+    "divisionName": "Srikakulam Division",
+    "officeName": "NDC Srikakulam",
+    "pinCode": "532184",
+    "officeType": "PO",
+    "district": "NA",
+    "latitude": "18.4064937",
+    "longitude": "83.8993952"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Visakhapatnam Region",
+    "divisionName": "Srikakulam Division",
+    "officeName": "Guppidipeta",
+    "pinCode": "532430",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "18.4132038",
+    "longitude": "84.1833387"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Visakhapatnam Region",
+    "divisionName": "Amalapuram Division",
+    "officeName": "Bellampudi B.O",
+    "pinCode": "533240",
+    "officeType": "BO",
+    "district": "NA",
+    "latitude": "NA",
+    "longitude": "NA"
+  },
+  {
+    "stateName": "ANDHRA PRADESH",
+    "circleName": "Andhra Pradesh Circle",
+    "regionName": "Vijayawada Region",
+    "divisionName": "Vijayawada Division",
+    "officeName": "GOLLAPUDI BAZAR",
+    "pinCode": "521225",
+    "officeType": "PO",
+    "district": "NA",
+    "latitude": "16.54",
+    "longitude": "80.58"
   }
 ]
